@@ -1,2 +1,2 @@
-# WebScrapierSii
-realiza un Scraping a al SII para automatizar download de las facturas emitidas para el archivo digital
+# WebScraperSii
+realiza un Scraping a al SII para automatizar los download de las facturas emitidas para el archivo digital
